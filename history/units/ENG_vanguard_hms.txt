@@ -1,0 +1,12 @@
+﻿units = {
+	fleet = {
+		name = "HMS Vanguard"
+		naval_base =540
+		task_force = {
+			name = "HMS Vanguard"
+			location =540
+			ship = { name = "HMS Vanguard" definition = battleship equipment = { ship_hull_heavy_3 = { amount = 1 owner = ENG version_name = "Vanguard" } } }
+		}
+	}
+}
+

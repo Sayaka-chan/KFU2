@@ -1,0 +1,29 @@
+
+state={
+	id=449
+	name="STATE_449" # El Agheila
+	manpower = 40431
+	
+	state_category = enclave
+
+	history={
+		owner = ITA
+		add_core_of = SWE
+		buildings = {
+			infrastructure = 5
+		}
+
+		victory_points = {
+			6908 5
+		}
+		victory_points = {
+			7194 5
+		}
+	}
+
+	provinces={
+		909 3907 3951 6808 11784 6908 11747 6925 9901 1118 7194 3807 3862 11826 11844 12866 7076 7136 8069 13073 1041 1198 4047 4057 10046 10117 12088 
+	}
+
+	local_supplies=0.0 
+}

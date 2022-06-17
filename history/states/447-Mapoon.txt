@@ -1,0 +1,32 @@
+
+state={
+	id=447
+	name="STATE_447"
+	manpower = 50000
+	
+	state_category = town
+
+	history={
+		owner = AST		
+		buildings = {
+			infrastructure = 3 #was: 5
+			air_base = 5
+			4648 = {
+				naval_base = 15
+				coastal_bunker = 3
+			}
+		}
+
+		victory_points = {
+			4648 3
+		}
+
+		add_core_of = AST
+	}
+
+	provinces={
+		4648 
+	}
+
+	local_supplies = 20 
+}

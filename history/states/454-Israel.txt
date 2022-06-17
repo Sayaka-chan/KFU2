@@ -1,0 +1,29 @@
+
+state={
+	id=454
+	name="STATE_454" #Palestine
+	manpower = 1
+	
+	state_category = rural
+
+	history={
+		owner = ENG
+		buildings = {
+			infrastructure = 6 #was: 5
+		}
+		add_core_of = SWE
+
+		victory_points = {
+			3950 5
+		}
+		victory_points = {
+			12771 3
+		}
+	}
+
+	provinces={
+		9912 9893 9761 1064 3890 11999 1028 10097 6813 1206 9777 3950 806 7156 11746 4143 12771 6965 10844 3903 4910 
+	}
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,422 @@
+﻿division_template = {
+	name = "Suppression"
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 0 y = 3 }
+		cavalry = { x = 0 y = 4 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+		cavalry = { x = 1 y = 3 }
+		cavalry = { x = 1 y = 4 }
+	}
+	support = {
+		military_police = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Infantry Division"
+	division_names_group = ENG_INF_01
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		artillery_brigade = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		artillery_brigade = { x = 1 y = 4 }
+		infantry = { x = 2 y = 0 }
+		infantry = { x = 2 y = 1 }
+		infantry = { x = 2 y = 2 }
+		artillery_brigade = { x = 2 y = 3 }
+		infantry = { x = 3 y = 0 }
+		infantry = { x = 3 y = 1 }
+		infantry = { x = 3 y = 2 }
+		artillery_brigade = { x = 3 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }
+		recon = { x = 0 y = 2 }
+		anti_air = { x = 0 y = 3 }
+	}
+}
+division_template = {
+	name = "Royal Desert Corps"
+	division_names_group = ENG_INF_01
+	regiments = {
+		desertinfantry = { x = 0 y = 0 }
+		desertinfantry = { x = 0 y = 1 }
+		desertinfantry = { x = 0 y = 2 }
+		desertinfantry = { x = 0 y = 3 }
+		artillery_brigade = { x = 0 y = 4 }
+		desertinfantry = { x = 1 y = 0 }
+		desertinfantry = { x = 1 y = 1 }
+		desertinfantry = { x = 1 y = 2 }
+		desertinfantry = { x = 1 y = 3 }
+		artillery_brigade = { x = 1 y = 4 }
+		desertinfantry = { x = 2 y = 0 }
+		desertinfantry = { x = 2 y = 1 }
+		desertinfantry = { x = 2 y = 2 }
+		artillery_brigade = { x = 2 y = 3 }
+		artillery_brigade = { x = 2 y = 4 }
+		desertinfantry = { x = 3 y = 0 }
+		desertinfantry = { x = 3 y = 1 }
+		anti_air_brigade = { x = 3 y = 2 }
+		anti_tank_brigade = { x = 3 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }
+		armored_car_recon = { x = 0 y = 2 }
+		anti_air = { x = 0 y = 3 }
+		logistics_company = { x = 0 y = 4 }
+	}
+}
+division_template = {
+	name = "Mountaineer Division"
+	division_names_group = ENG_INF_01
+	regiments = {
+		mountaineers = { x = 0 y = 0 }
+		mountaineers = { x = 0 y = 1 }
+		mountaineers = { x = 0 y = 2 }
+		mountaineers = { x = 0 y = 3 }
+		artillery_brigade = { x = 0 y = 4 }
+		mountaineers = { x = 1 y = 0 }
+		mountaineers = { x = 1 y = 1 }
+		mountaineers = { x = 1 y = 2 }
+		mountaineers = { x = 1 y = 3 }
+		artillery_brigade = { x = 1 y = 4 }
+		mountaineers = { x = 2 y = 0 }
+		mountaineers = { x = 2 y = 1 }
+		mountaineers = { x = 2 y = 2 }
+		artillery_brigade = { x = 2 y = 3 }
+		mountaineers = { x = 3 y = 0 }
+		mountaineers = { x = 3 y = 1 }
+		mountaineers = { x = 3 y = 2 }
+		artillery_brigade = { x = 3 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		artillery = { x = 0 y = 1 }
+		recon = { x = 0 y = 2 }
+		logistics_company = { x = 0 y = 4 }
+	}
+}
+
+division_template = {
+	name = "Paratroopers"
+	division_names_group = ENG_INF_01
+	regiments = {
+		paratrooper = { x = 0 y = 0 }
+		paratrooper = { x = 0 y = 1 }
+		paratrooper = { x = 0 y = 2 }
+		paratrooper = { x = 0 y = 3 }
+		paratrooper = { x = 0 y = 4 }
+		paratrooper = { x = 1 y = 0 }
+		paratrooper = { x = 1 y = 1 }
+		paratrooper = { x = 1 y = 2 }
+		paratrooper = { x = 1 y = 3 }
+		paratrooper = { x = 1 y = 4 }
+		paratrooper = { x = 2 y = 0 }
+		paratrooper = { x = 2 y = 1 }
+		paratrooper = { x = 2 y = 2 }
+		paratrooper = { x = 2 y = 3 }
+		paratrooper = { x = 2 y = 4 }
+		paratrooper = { x = 3 y = 0 }
+		paratrooper = { x = 3 y = 1 }
+		paratrooper = { x = 3 y = 2 }
+		paratrooper = { x = 3 y = 3 }
+		paratrooper = { x = 3 y = 4 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+		artillery = { x = 0 y = 2 }
+		anti_air = { x = 0 y = 3 }
+	}
+	priority = 0
+}
+
+division_template = {
+	name = "Shocktroopers"
+	division_names_group = ENG_INF_01
+	regiments = {
+		shocktroop = { x = 0 y = 0 }
+		shocktroop = { x = 0 y = 1 }
+		shocktroop = { x = 0 y = 2 }
+		shocktroop = { x = 0 y = 3 }
+		artillery_brigade = { x = 0 y = 4 }
+		shocktroop = { x = 1 y = 0 }
+		shocktroop = { x = 1 y = 1 }
+		shocktroop = { x = 1 y = 2 }
+		artillery_brigade = { x = 1 y = 3 }
+		artillery_brigade = { x = 1 y = 4 }
+		shocktroop = { x = 2 y = 0 }
+		shocktroop = { x = 2 y = 1 }
+		shocktroop = { x = 2 y = 2 }
+		artillery_brigade = { x = 2 y = 3 }
+		anti_air_brigade = { x = 2 y = 4 }
+		shocktroop = { x = 3 y = 0 }
+		shocktroop = { x = 3 y = 1 }
+		shocktroop = { x = 3 y = 2 }
+		anti_tank_brigade = { x = 3 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		recon = { x = 0 y = 1 }
+		artillery = { x = 0 y = 2 }
+		anti_air = { x = 0 y = 3 }
+		logistics_company = { x = 0 y = 4 }
+	}
+}
+
+division_template = {
+	name = "Cavalry Brigade"
+	division_names_group = ENG_CAV_02
+	regiments = {
+		cavalry = { x = 0 y = 0 }
+		cavalry = { x = 0 y = 1 }
+		cavalry = { x = 0 y = 2 }
+		cavalry = { x = 0 y = 3 }
+		cavalry = { x = 0 y = 4 }
+		cavalry = { x = 1 y = 0 }
+		cavalry = { x = 1 y = 1 }
+		cavalry = { x = 1 y = 2 }
+		cavalry = { x = 1 y = 3 }
+		cavalry = { x = 1 y = 4 }
+	}
+	support = {
+		recon = { x = 0 y = 0 }
+	}
+}
+division_template = {
+	name = "Light Tank Division"
+	division_names_group = ENG_ARM_02
+	regiments = {
+		light_armor = { x = 0 y = 0 }
+		light_armor = { x = 0 y = 1 }
+		light_armor = { x = 0 y = 2 }
+		light_armor = { x = 0 y = 3 }
+		light_armor = { x = 1 y = 0 }
+		light_armor = { x = 1 y = 1 }
+		light_armor = { x = 1 y = 2 }
+		light_tank_destroyer_brigade = { x = 1 y = 3 }
+		light_armor = { x = 2 y = 0 }
+		light_armor = { x = 2 y = 1 }
+		light_armor = { x = 2 y = 2 }
+		light_sp_anti_air_brigade = { x = 2 y = 3 }
+		motorized = { x = 3 y = 0 }
+		motorized = { x = 3 y = 1 }
+		motorized = { x = 3 y = 2 }
+		motorized = { x = 3 y = 3 }
+		motorized = { x = 4 y = 0 }
+		motorized = { x = 4 y = 1 }
+		motorized = { x = 4 y = 2 }
+		motorized = { x = 4 y = 3 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+		armored_car_recon  = { x = 0 y = 1 }
+		artillery = { x = 0 y = 2 }
+	}
+}
+division_template = {
+	name = "Colonial Garrison"
+	division_names_group = ENG_COL_01
+	regiments = {
+		infantry = { x = 0 y = 0 }
+		infantry = { x = 0 y = 1 }
+		infantry = { x = 0 y = 2 }
+		infantry = { x = 0 y = 3 }
+		infantry = { x = 0 y = 4 }
+		infantry = { x = 1 y = 0 }
+		infantry = { x = 1 y = 1 }
+		infantry = { x = 1 y = 2 }
+		infantry = { x = 1 y = 3 }
+		infantry = { x = 1 y = 4 }
+	}
+	support = {
+		engineer = { x = 0 y = 0 }
+	}
+	priority = 0
+}
+units = {
+	division= {
+		name = "Royal Desert Division 1"
+		location =6103
+		division_template = "Royal Desert Corps"
+		start_experience_factor = 0.3
+	}
+}
+units = {
+	division= {
+		name = "Royal Desert Division 2"
+		location =6103
+		division_template = "Royal Desert Corps"
+		start_experience_factor = 0.3
+	}
+}
+units = {
+	division= {
+		name = "Royal Desert Division 3"
+		location =6103
+		division_template = "Royal Desert Corps"
+		start_experience_factor = 0.3
+	}
+}
+units = {
+	division= {
+		name = "Royal Desert Division 4"
+		location =6103
+		division_template = "Royal Desert Corps"
+		start_experience_factor = 0.3
+	}
+}
+units = {
+	division= {
+		name = "Royal Tank Corps 1"
+		location =6103
+		division_template = "Light Tank Division"
+		start_experience_factor = 0.3
+	}
+}
+units = {
+	division= {
+		name = "Royal Tank Corps 2"
+		location =6103
+		division_template = "Light Tank Division"
+		start_experience_factor = 0.3
+	}
+}
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = infantry_equipment_1
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = support_equipment_1
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+		type = light_tank_chassis_2
+		version_name = "Mathilda I"
+		creator = "ENG"
+		}
+		requested_factories = 3
+		progress = 0.6
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+		type = light_tank_aa_chassis_2
+		version_name = "Light Tank SPAA"
+		creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.4
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+		type = light_tank_destroyer_chassis_2
+		version_name = "Light Tank Destroyer"
+		creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.4
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+		type = train_equipment_1
+		creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.4
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = fighter_equipment_1
+			version_name = "Hurricane A"
+			creator = "ENG"
+		}
+		requested_factories = 5
+		progress = 0.15
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = tac_bomber_equipment_1
+			version_name = "Welington A"
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = nav_bomber_equipment_1
+			version_name = "Swordfish A"
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = motorized_equipment_1
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.1
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = anti_air_equipment_1
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.3
+		efficiency = 50
+	}
+	add_equipment_production = {
+		equipment = {
+			type = amphibious_mechanized_equipment_1
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.15
+		efficiency = 100
+	}
+	add_equipment_production = {
+		equipment = {
+			type = gw_armored_car_equipment
+			creator = "ENG"
+		}
+		requested_factories = 1
+		progress = 0.29
+		efficiency = 100
+	}
+}
+

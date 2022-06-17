@@ -1,0 +1,27 @@
+state={
+	id=540
+	name="STATE_540"
+	resources={
+		steel=8.000
+	}
+
+	history={
+		owner = FRA
+		add_core_of = SWE
+		buildings = {
+			industrial_complex = 3
+			infrastructure = 2
+		}
+	}
+
+
+
+	provinces={
+		1552 2126 4735 5158 7548 8054 8138 8202 8219 8248 10966 12391 12958 12981 12985 
+	}
+	manpower=1024219
+	buildings_max_level_factor=1.000
+	state_category=town
+
+	local_supplies=0.0 
+}

@@ -1,0 +1,444 @@
+units = {
+	division = {
+		name = "Siberian Divisions"
+		location = 4716
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4716
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4716
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4835
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4835
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4835
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1761
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1761
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1761
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4762
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4762
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4762
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4675
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4675
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4675
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4752
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4752
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4752
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12694
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12694
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12694
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1748
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1748
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 1748
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10658
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10658
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10658
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12650
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12650
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4821
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4821
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 4821
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7854
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7854
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7854
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12565
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12565
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12565
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12591
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12591
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 12591
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10667
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10667
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10667
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10608
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10608
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 10608
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7844
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7844
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Divisions"
+		location = 7844
+		division_template = "Siberian Divisions"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Tanks"
+		location = 12565
+		division_template = "Siberian Tanks"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Tanks"
+		location = 4821
+		division_template = "Siberian Tanks"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Tanks"
+		location = 1761
+		division_template = "Siberian Tanks"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Tanks"
+		location = 1761
+		division_template = "Siberian Tanks"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	division = {
+		name = "Siberian Tanks"
+		location = 4675
+		division_template = "Siberian Tanks"
+		start_experience_factor = 0.5
+		start_equipment_factor = 1
+		start_manpower_factor = 1
+	}
+	
+}
+

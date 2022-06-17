@@ -1,0 +1,21 @@
+
+state={
+	id=356
+	name="STATE_356" # Kastamonu
+	manpower = 860589
+	state_category = rural
+
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+		}
+		add_core_of = TUR
+	}
+	
+	provinces={
+		3967 6995
+	}
+
+	local_supplies=0.0 
+}

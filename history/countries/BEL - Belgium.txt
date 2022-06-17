@@ -1,0 +1,56 @@
+capital = 6
+oob = "BEL_1936"
+set_research_slots = 0
+set_stability = 0.8
+set_war_support = 0.3 #we see what you are doing there Adolf
+set_technology = {
+	infantry_weapons = 1
+	tech_support = 1
+	basic_train = 1
+}
+
+add_ideas = neutrality_idea1
+add_timed_idea = { idea = no_training days= 1095 }
+add_ideas = peace_training
+
+add_equipment_to_stockpile = {
+	type = infantry_equipment_1
+	amount = 18000
+	producer = GER
+}
+add_equipment_to_stockpile = {
+	type = support_equipment
+	amount = 1500
+	producer = GER
+}
+add_equipment_to_stockpile = {
+	type = artillery_equipment_1
+	amount = 1300
+	producer = GER
+}
+add_equipment_to_stockpile = {
+	type = anti_air_equipment_1
+	amount = 1600
+	producer = GER
+}
+add_equipment_to_stockpile = {
+	type = convoy
+	amount = 230
+}
+recruit_character = BEL_hubert_pierlot
+
+add_manpower = 80000
+set_politics = {
+	ruling_party = democratic
+	last_election = "1932.11.27"
+	election_frequency = 48
+	elections_allowed = yes
+}
+set_popularities = {
+	democratic = 83
+	fascism = 11
+	communism = 6
+}
+set_convoys = 80
+set_stability = 0.75
+

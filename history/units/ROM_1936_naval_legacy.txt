@@ -1,0 +1,16 @@
+﻿
+units= {
+	
+}
+instant_effect = {
+	add_equipment_production = {
+		equipment = {
+			type = submarine_1
+			creator = "ROM"
+		}
+		requested_factories = 1
+		progress = 0.50
+		amount = 1
+	}
+}
+

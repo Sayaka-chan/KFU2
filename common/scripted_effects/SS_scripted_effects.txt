@@ -1,0 +1,263 @@
+SS_set_templates = {
+	if = {
+		limit = {
+			NOT = {
+				has_country_flag = SS_motorised_division
+			}
+			NOT = {
+				has_tech = mechanised_infantry
+			}
+		}
+		SS_motorised_division = yes
+	}
+	if = {
+		limit = {
+			NOT = {
+				has_country_flag = SS_mechanised_division_early
+			}
+			has_tech = mechanised_infantry
+		}
+		SS_mechanised_division_early = yes
+	}
+	if = {
+		limit = {
+			NOT = {
+				has_country_flag = SS_mechanised_division_late
+			}
+			AND = {
+				has_tech = mechanised_infantry
+				has_tech = basic_medium_td
+				has_tech = basic_medium_art
+			}
+		}
+		SS_mechanised_division_late = yes
+	}
+	if = {
+		limit = {
+			AND = {
+				NOT = { has_country_flag = SS_armored_division_early }
+				NOT = {
+					OR = {
+						has_tech = basic_medium_tank
+						has_tech = improved_medium_tank
+						has_tech = advanced_medium_tank
+					}
+				}
+				NOT = {
+					has_tech = mechanised_infantry
+				}
+			}
+		}
+		SS_armored_division_early = yes
+	}
+	if = {
+		limit = {
+			AND = {
+				NOT = { has_country_flag = SS_armored_division_improved }
+				OR = {
+					has_tech = basic_medium_tank
+					has_tech = improved_medium_tank
+					has_tech = advanced_medium_tank
+				}
+				NOT = {
+					has_tech = mechanised_infantry
+				}
+			}
+		}
+		SS_armored_division_improved = yes
+	}
+	if = {
+		limit = {
+			AND = {
+				NOT = { has_country_flag = SS_armored_division_late }
+				OR = {
+					has_tech = basic_medium_tank
+					has_tech = improved_medium_tank
+					has_tech = advanced_medium_tank
+				}
+				has_tech = mechanised_infantry
+			}
+		}
+		SS_armored_division_late = yes
+	}
+}
+SS_motorised_division = {
+	set_country_flag = SS_motorised_division
+	division_template = {
+		name = "SS Motorisierte Division"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			motorized = { x = 0 y = 0 }
+			motorized = { x = 0 y = 1 }
+			motorized = { x = 0 y = 2 }
+			motorized = { x = 1 y = 0 }
+			motorized = { x = 1 y = 1 }
+			motorized = { x = 1 y = 2 }
+			motorized = { x = 2 y = 0 }
+			motorized = { x = 2 y = 1 }
+			motorized = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_mechanised_division_early = {
+	set_country_flag = SS_mechanised_division_early
+	division_template = {
+		name = "SS Panzergrenadier Division"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			mechanized = { x = 0 y = 0 }
+			mechanized = { x = 0 y = 1 }
+			mechanized = { x = 0 y = 2 }
+			mechanized = { x = 1 y = 0 }
+			mechanized = { x = 1 y = 1 }
+			mechanized = { x = 1 y = 2 }
+			mechanized = { x = 2 y = 0 }
+			mechanized = { x = 2 y = 1 }
+			mechanized = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_mechanised_division_late = {
+	set_country_flag = SS_mechanised_division_late
+	division_template = {
+		name = "SS Panzergrenadier Division (n.A.)"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			mechanized = { x = 0 y = 0 }
+			mechanized = { x = 0 y = 1 }
+			mechanized = { x = 0 y = 2 }
+			mechanized = { x = 1 y = 0 }
+			mechanized = { x = 1 y = 1 }
+			mechanized = { x = 1 y = 2 }
+			medium_tank_destroyer_brigade = { x = 2 y = 0 }
+			medium_sp_artillery_brigade= { x = 2 y = 1 }
+			medium_sp_artillery_brigade = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_armored_division_early = {
+	set_country_flag = SS_armored_division_early
+	division_template = {
+		name = "SS Panzer Division"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			light_armor = { x = 0 y = 0 }
+			light_armor = { x = 0 y = 1 }
+			light_armor = { x = 0 y = 2 }
+			light_armor = { x = 0 y = 3 }
+			motorized = { x = 1 y = 0 }
+			motorized = { x = 1 y = 1 }
+			motorized = { x = 1 y = 2 }
+			motorized = { x = 2 y = 0 }
+			motorized = { x = 2 y = 1 }
+			motorized = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_armored_division_improved = {
+	set_country_flag = SS_armored_division_improved
+	division_template = {
+		name = "SS Panzer Division (n.A.)"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			medium_armor = { x = 0 y = 0 }
+			medium_armor = { x = 0 y = 1 }
+			medium_armor = { x = 0 y = 2 }
+			medium_armor = { x = 0 y = 3 }
+			motorized = { x = 1 y = 0 }
+			motorized = { x = 1 y = 1 }
+			motorized = { x = 1 y = 2 }
+			motorized = { x = 2 y = 0 }
+			motorized = { x = 2 y = 1 }
+			motorized = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_armored_division_late = {
+	set_country_flag = SS_armored_division_late
+	division_template = {
+		name = "SS Panzer Division (vollgep.)"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			medium_armor = { x = 0 y = 0 }
+			medium_armor = { x = 0 y = 1 }
+			medium_armor = { x = 0 y = 2 }
+			medium_armor = { x = 0 y = 3 }
+			mechanized = { x = 1 y = 0 }
+			mechanized = { x = 1 y = 1 }
+			mechanized = { x = 1 y = 2 }
+			mechanized = { x = 2 y = 0 }
+			mechanized = { x = 2 y = 1 }
+			mechanized = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+SS_infantry_division = {
+	set_country_flag = SS_infantry_division
+	division_template = {
+		name = "SS Waffen-Grenadier-Division"
+		priority = 2
+		division_names_group = GER_SS_01
+		is_locked = yes
+		regiments = {
+			infantry = { x = 0 y = 0 }
+			infantry = { x = 0 y = 1 }
+			infantry = { x = 0 y = 2 }
+			infantry = { x = 1 y = 0 }
+			infantry = { x = 1 y = 1 }
+			infantry = { x = 1 y = 2 }
+			artillery_brigade = { x = 2 y = 0 }
+			artillery_brigade = { x = 2 y = 1 }
+			infantry = { x = 2 y = 2 }
+		}
+		support = {
+			artillery = { x = 0 y = 0 }
+			engineer = { x = 0 y = 1 }
+			recon = { x = 0 y = 2 }
+		}
+	}
+}
+
+

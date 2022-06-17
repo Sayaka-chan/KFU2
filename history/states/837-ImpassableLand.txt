@@ -1,0 +1,19 @@
+state = {
+	id = 837
+	name = "STATE_837"
+	manpower = 1
+	state_category = wasteland
+	impassable = yes
+	resources = {
+	}
+	history={
+		owner = NOR
+		add_core_of = NOR
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	provinces = {
+		3129 11101 11198 9170 9047 6216 3180 102 6204   6118 11206 11113 9227 9135 6114 9032 6136 11037 3059 6184
+	}
+}

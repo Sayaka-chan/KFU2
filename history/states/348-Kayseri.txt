@@ -1,0 +1,25 @@
+
+state={
+	id=348
+	name="STATE_348" # Kayseri
+	manpower = 1
+	
+	state_category = rural
+	resources={
+	}
+	history={
+		owner = TUR
+		buildings = {
+			infrastructure = 2
+
+		}
+		add_core_of = TUR
+
+	}
+	
+	provinces={
+		886 
+	}
+
+	local_supplies=0.0 
+}

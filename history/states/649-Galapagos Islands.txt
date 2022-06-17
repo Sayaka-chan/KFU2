@@ -1,0 +1,17 @@
+state=
+{
+	id=649
+	name="STATE_649"
+	manpower = 1
+
+	state_category = wasteland
+
+	history= {
+		owner = SWI
+		add_core_of = SWI
+	}
+	
+	provinces= { 5023 }
+
+	local_supplies=0.0 
+}
