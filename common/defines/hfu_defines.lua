@@ -1,6 +1,6 @@
 --HFU defines:
 NDefines.NMilitary.PLANNING_MAX = 0.25
-NDefines.NProduction.MIN_LAND_EQUIPMENT_CONVERSION_IC_COST_FACTOR = 10      -- Fraction of the chassis industry cost which is always included in the conversion cost.
+NDefines.NProduction.MIN_LAND_EQUIPMENT_CONVERSION_IC_COST_FACTOR = 1      -- Fraction of the chassis industry cost which is always included in the conversion cost.
 --------------------------------------------------------------
 ---nukes
 NDefines.NMilitary.NUKE_MIN_DAMAGE_PERCENT =0

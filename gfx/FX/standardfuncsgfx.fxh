@@ -675,7 +675,7 @@ PixelShader =
 
 		float3 vAmbientColor = AmbientLight(aProperties._Normal, vDayNight);
 		float3 diffuse = ((vAmbientColor + aDiffuseLight) * aProperties._Diffuse) * HdrRange;
-		float3 specular = aSpecularLight;
+		float3 specular = 0.0 * aSpecularLight;
 
 		return diffuse + specular;
 	}
